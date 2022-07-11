@@ -58,7 +58,7 @@ public class Main {
             }
 
             command = scanner.nextLine();
-            //Person -> Product
+            //InheritanceExercise.Person -> Product
         }
 
         people.values().forEach(System.out::println);
